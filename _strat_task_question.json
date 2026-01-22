@@ -1,0 +1,305 @@
+{
+  "lp04": {
+    "task_type": "question",
+    "statement": "Sind Sie bei der folgenden Aussage derselben oder anderer Meinung: 'So wie die Zukunft aussieht, kann man es kaum noch verantworten, Kinder auf die Welt zu bringen.'?",
+    "answers": [
+      "1: BIN DERS.MEINUNG",
+      "2: BIN ANDERER MEINUNG"
+    ]
+  },
+  "pe05": {
+    "task_type": "question",
+    "statement": "Inwiefern stimmen Sie der folgenden Meinung zu: 'Die Politiker bemühen sich im Allgemeinen darum, die Interessen der Bevölkerung zu vertreten.'? (Antwortmöglichkeiten: voll und ganz zustimmen, eher zustimmen, eher nicht zustimmen, überhaupt nicht zustimmen)",
+    "answers": [
+      "1: STIMME VOLL ZU",
+      "2: STIMME EHER ZU",
+      "3: STIMME EHER NICHT ZU",
+      "4: STIMME GAR NICHT ZU"
+    ]
+  },
+  "mp18": {
+    "task_type": "question",
+    "statement": "Ergeben sich Ihrer Meinung nach wegen der Flüchtlinge in Bezug auf das Zusammenleben in der Gesellschaft mehr Chancen, mehr Risiken oder weder noch?",
+    "answers": [
+      "1: RISIKO UEBERWIEGT",
+      "2: EHER RISIKO",
+      "3: WEDER NOCH",
+      "4: EHER CHANCE",
+      "5: CHANCE UEBERWIEGT"
+    ]
+  },
+  "mm01": {
+    "task_type": "question",
+    "statement": "Inwieweit stimmen Sie der folgenden Aussage zu: 'Die Ausübung des islamischen Glaubens in Deutschland sollte eingeschränkt werden.'?",
+    "answers": [
+      "1: 1 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "2: 2 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "3: 3 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "4: 4 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "5: 5 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "6: 6 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "7: 7 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")"
+    ]
+  },
+  "vi10": {
+    "task_type": "question",
+    "statement": "Wie wichtig ist es für Sie persönlich 'sich politisch zu engagieren'?",
+    "answers": [
+      "1: 1 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "2: 2 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "3: 3 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "4: 4 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "5: 5 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "6: 6 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "7: 7 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")"
+    ]
+  },
+  "vm17": {
+    "task_type": "question",
+    "statement": "Wie beurteilen Sie es, wenn ein Paar anonym gespendete Ei- oder Samenzellen verwendet, um mit medizinischer Hilfe ein Kind zu bekommen?",
+    "answers": [
+      "1: -3 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")",
+      "2: -2 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")",
+      "3: -1 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")",
+      "4: 0 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")",
+      "5: 1 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")",
+      "6: 2 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")",
+      "7: 3 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")"
+    ]
+  },
+  "st01": {
+    "task_type": "question",
+    "statement": "Manche Leute sagen, dass man den meisten Menschen trauen kann. Andere meinen, dass man nicht vorsichtig genug sein kann im Umgang mit anderen Menschen. Was ist Ihre Meinung dazu?",
+    "answers": [
+      "1: MAN KANN TRAUEN",
+      "2: MUSS VORSICHTIG SEIN",
+      "3: KOMMT DARAUF AN",
+      "4: SONSTIGES"
+    ]
+  },
+  "iw04": {
+    "task_type": "question",
+    "statement": "Inwiefern stimmen Sie der folgenden Auffassung zu: 'Der Staat muss dafür sorgen, dass man auch bei Krankheit, Not, Arbeitslosigkeit und im Alter ein gutes Auskommen hat.'? (Antwortmöglichkeiten: voll zustimmen, eher zustimmen, eher nicht zustimmen, überhaupt nicht zustimmen)",
+    "answers": [
+      "1: STIMME VOLL ZU",
+      "2: STIMME EHER ZU",
+      "3: STIMME EHER NICHT ZU",
+      "4: STIMME GAR NICHT ZU"
+    ]
+  },
+  "ep06": {
+    "task_type": "question",
+    "statement": "Was glauben Sie, wie wird Ihre eigene wirtschaftliche Lage in einem Jahr sein?",
+    "answers": [
+      "1: WESENTLICH BESSER",
+      "2: ETWAS BESSER",
+      "3: GLEICHBLEIBEND",
+      "4: ETWAS SCHLECHTER",
+      "5: WESENTL. SCHLECHTER"
+    ]
+  },
+  "li03": {
+    "task_type": "question",
+    "statement": "Wie wichtig ist für Sie der Lebensbereich 'Freizeit und Erholung'? Bitte antworten Sie auf einer Skala von 1 (unwichtig) bis 7 (sehr wichtig).",
+    "answers": [
+      "1: 1 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "2: 2 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "3: 3 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "4: 4 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "5: 5 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "6: 6 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "7: 7 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")"
+    ]
+  },
+  "ps01": {
+    "task_type": "question",
+    "statement": "Wie zufrieden sind Sie - insgesamt betrachtet - mit den gegenwärtigen Leistungen der Bundesregierung?",
+    "answers": [
+      "1: SEHR ZUFRIEDEN",
+      "2: ZIEMLICH ZUFRIEDEN",
+      "3: ETWAS ZUFRIEDEN",
+      "4: ETWAS UNZUFRIEDEN",
+      "5: ZIEML. UNZUFRIEDEN",
+      "6: SEHR UNZUFRIEDEN"
+    ]
+  },
+  "mp12": {
+    "task_type": "question",
+    "statement": "Inwieweit stimmen Sie der folgenden Aussage zu: 'Die Ausländer in Deutschland tragen dazu bei, den Fachkräftemangel zu beheben.'?",
+    "answers": [
+      "1: 1 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "2: 2 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "3: 3 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "4: 4 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "5: 5 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "6: 6 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "7: 7 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")"
+    ]
+  },
+  "rb01": {
+    "task_type": "question",
+    "statement": "Wie stark stimmen Sie der folgenden Aussage zu: 'Es gibt einen Gott, der sich mit jedem Menschen persönlich befasst.'?",
+    "answers": [
+      "1: STIMME VOLL ZU",
+      "2: STIMME EHER ZU",
+      "3: KEINE FESTE MEINUNG",
+      "4: STIMME EHER NICHT ZU",
+      "5: STIMME GAR NICHT ZU",
+      "6: NOCH NIE NACHGEDACHT"
+    ]
+  },
+  "vi06": {
+    "task_type": "question",
+    "statement": "Wie wichtig ist es für Sie persönlich 'sozial Benachteiligten und gesellschaftlichen Randgruppen zu helfen'?",
+    "answers": [
+      "1: 1 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "2: 2 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "3: 3 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "4: 4 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "5: 5 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "6: 6 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "7: 7 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")"
+    ]
+  },
+  "ca12": {
+    "task_type": "question",
+    "statement": "Für wie schlimm halten Sie persönlich das folgende Verhalten: Jemand raucht mehrmals in der Woche Haschisch. (Antwortmöglichkeiten: sehr schlimm, ziemlich schlimm, weniger schlimm, überhaupt nicht schlimm)",
+    "answers": [
+      "1: SEHR SCHLIMM",
+      "2: ZIEMLICH SCHLIMM",
+      "3: WENIGER SCHLIMM",
+      "4: GAR NICHT SCHLIMM"
+    ]
+  },
+  "sm01": {
+    "task_type": "question",
+    "statement": "Sind Sie derzeit Mitglied in einer Gewerkschaft?",
+    "answers": [
+      "1: JA",
+      "2: NEIN"
+    ]
+  },
+  "im08": {
+    "task_type": "question",
+    "statement": "Wie wichtig ist Ihrer Meinung nach 'Leistung, Fleiß' für den Aufstieg in unserer Gesellschaft gegenwärtig?",
+    "answers": [
+      "1: SEHR WICHTIG",
+      "2: WICHTIG",
+      "3: WENIGER WICHTIG",
+      "4: UNWICHTIG"
+    ]
+  },
+  "ep03": {
+    "task_type": "question",
+    "statement": "Wie beurteilen Sie Ihre eigene wirtschaftliche Lage heute?",
+    "answers": [
+      "1: SEHR GUT",
+      "2: GUT",
+      "3: TEILS/TEILS",
+      "4: SCHLECHT",
+      "5: SEHR SCHLECHT"
+    ]
+  },
+  "lp03": {
+    "task_type": "question",
+    "statement": "Sind Sie bei der folgenden Aussage derselben oder anderer Meinung: 'Egal was manche Leute sagen: Die Situation der einfachen Leute wird nicht besser, sondern schlechter.'?",
+    "answers": [
+      "1: BIN DERS.MEINUNG",
+      "2: BIN ANDERER MEINUNG"
+    ]
+  },
+  "pt15": {
+    "task_type": "question",
+    "statement": "Wie groß ist Ihr Vertrauen in die politischen Parteien? (Skala: 1=überhaupt kein Vertrauen, 7=sehr großes Vertrauen)",
+    "answers": [
+      "1: 1 (1-7 \"GAR KEIN VERTRAUEN\"-\"GROSSES VERTRAUEN\")",
+      "2: 2 (1-7 \"GAR KEIN VERTRAUEN\"-\"GROSSES VERTRAUEN\")",
+      "3: 3 (1-7 \"GAR KEIN VERTRAUEN\"-\"GROSSES VERTRAUEN\")",
+      "4: 4 (1-7 \"GAR KEIN VERTRAUEN\"-\"GROSSES VERTRAUEN\")",
+      "5: 5 (1-7 \"GAR KEIN VERTRAUEN\"-\"GROSSES VERTRAUEN\")",
+      "6: 6 (1-7 \"GAR KEIN VERTRAUEN\"-\"GROSSES VERTRAUEN\")",
+      "7: 7 (1-7 \"GAR KEIN VERTRAUEN\"-\"GROSSES VERTRAUEN\")"
+    ]
+  },
+  "mn01": {
+    "task_type": "question",
+    "statement": "Wie wichtig sollte bei der Vergabe der deutschen Staatsbürgerschaft sein, ob die Person in Deutschland geboren ist?",
+    "answers": [
+      "1: 1 (1-7 \"GAR NICHT WICHTIG\"-\"SEHR WICHTIG\")",
+      "2: 2 (1-7 \"GAR NICHT WICHTIG\"-\"SEHR WICHTIG\")",
+      "3: 3 (1-7 \"GAR NICHT WICHTIG\"-\"SEHR WICHTIG\")",
+      "4: 4 (1-7 \"GAR NICHT WICHTIG\"-\"SEHR WICHTIG\")",
+      "5: 5 (1-7 \"GAR NICHT WICHTIG\"-\"SEHR WICHTIG\")",
+      "6: 6 (1-7 \"GAR NICHT WICHTIG\"-\"SEHR WICHTIG\")",
+      "7: 7 (1-7 \"GAR NICHT WICHTIG\"-\"SEHR WICHTIG\")"
+    ]
+  },
+  "mm06": {
+    "task_type": "question",
+    "statement": "Inwieweit stimmen Sie der folgenden Aussage zu: 'Ich habe den Eindruck, dass unter den in Deutschland lebenden Muslimen viele religiöse Fanatiker sind.'?",
+    "answers": [
+      "1: 1 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "2: 2 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "3: 3 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "4: 4 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "5: 5 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "6: 6 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")",
+      "7: 7 (1-7 \"STIMME GAR NICHT ZU\"-\"STIMME VOLL+GANZ ZU\")"
+    ]
+  },
+  "vi07": {
+    "task_type": "question",
+    "statement": "Wie wichtig ist es für Sie persönlich 'sich und seine Bedürfnisse gegen andere durchzusetzen'?",
+    "answers": [
+      "1: 1 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "2: 2 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "3: 3 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "4: 4 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "5: 5 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "6: 6 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")",
+      "7: 7 (1-7 \"UNWICHTIG\"-\"SEHR WICHTIG\")"
+    ]
+  },
+  "vm16": {
+    "task_type": "question",
+    "statement": "Wie beurteilen Sie es, wenn ein Paar eigene Ei- und Samenzellen verwendet, um mit medizinischer Hilfe ein Kind zu bekommen?",
+    "answers": [
+      "1: -3 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")",
+      "2: -2 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")",
+      "3: -1 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")",
+      "4: 0 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")",
+      "5: 1 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")",
+      "6: 2 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")",
+      "7: 3 (\"-3\"-\"+3\" \"SEHR FALSCH\"-\"SEHR RICHTIG\")"
+    ]
+  },
+  "sm02": {
+    "task_type": "question",
+    "statement": "Waren Sie früher einmal Mitglied in einer Gewerkschaft?",
+    "answers": [
+      "1: JA",
+      "2: NEIN"
+    ]
+  },
+  "im03": {
+    "task_type": "question",
+    "statement": "Wie wichtig ist Ihrer Meinung nach 'Bildung, Ausbildung' für den Aufstieg in unserer Gesellschaft gegenwärtig?",
+    "answers": [
+      "1: SEHR WICHTIG",
+      "2: WICHTIG",
+      "3: WENIGER WICHTIG",
+      "4: UNWICHTIG"
+    ]
+  },
+  "ep01": {
+    "task_type": "question",
+    "statement": "Wie beurteilen Sie ganz allgemein die heutige wirtschaftliche Lage in Deutschland?",
+    "answers": [
+      "1: SEHR GUT",
+      "2: GUT",
+      "3: TEILS/TEILS",
+      "4: SCHLECHT",
+      "5: SEHR SCHLECHT"
+    ]
+  }
+}
